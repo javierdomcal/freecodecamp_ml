@@ -1,0 +1,557 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAMQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					51,
+					"left_delete",
+					null,
+					"MQAAADAAAAAAAAAAMAAAAAAAAAABAAAAYi8AAAAAAAAALwAAAAAAAAABAAAAbi4AAAAAAAAALgAAAAAAAAABAAAAeS0AAAAAAAAALQAAAAAAAAABAAAAcCwAAAAAAAAALAAAAAAAAAABAAAAaSsAAAAAAAAAKwAAAAAAAAABAAAALioAAAAAAAAAKgAAAAAAAAABAAAAZykAAAAAAAAAKQAAAAAAAAABAAAAbygAAAAAAAAAKAAAAAAAAAABAAAAZCcAAAAAAAAAJwAAAAAAAAABAAAAXyYAAAAAAAAAJgAAAAAAAAABAAAAdCUAAAAAAAAAJQAAAAAAAAABAAAAYSQAAAAAAAAAJAAAAAAAAAABAAAAYyMAAAAAAAAAIwAAAAAAAAABAAAAXyIAAAAAAAAAIgAAAAAAAAABAAAAYyEAAAAAAAAAIQAAAAAAAAABAAAAYyAAAAAAAAAAIAAAAAAAAAABAAAAZh8AAAAAAAAAHwAAAAAAAAABAAAALx4AAAAAAAAAHgAAAAAAAAABAAAAcx0AAAAAAAAAHQAAAAAAAAABAAAAaxwAAAAAAAAAHAAAAAAAAAABAAAAbxsAAAAAAAAAGwAAAAAAAAABAAAAbxoAAAAAAAAAGgAAAAAAAAABAAAAYhkAAAAAAAAAGQAAAAAAAAABAAAAZRgAAAAAAAAAGAAAAAAAAAABAAAAdBcAAAAAAAAAFwAAAAAAAAABAAAAbxYAAAAAAAAAFgAAAAAAAAABAAAAbhUAAAAAAAAAFQAAAAAAAAABAAAALxQAAAAAAAAAFAAAAAAAAAABAAAAORMAAAAAAAAAEwAAAAAAAAABAAAAOBIAAAAAAAAAEgAAAAAAAAABAAAAOBEAAAAAAAAAEQAAAAAAAAABAAAAOBAAAAAAAAAAEAAAAAAAAAABAAAAOg8AAAAAAAAADwAAAAAAAAABAAAAdA4AAAAAAAAADgAAAAAAAAABAAAAcw0AAAAAAAAADQAAAAAAAAABAAAAbwwAAAAAAAAADAAAAAAAAAABAAAAaAsAAAAAAAAACwAAAAAAAAABAAAAbAoAAAAAAAAACgAAAAAAAAABAAAAYQkAAAAAAAAACQAAAAAAAAABAAAAYwgAAAAAAAAACAAAAAAAAAABAAAAbwcAAAAAAAAABwAAAAAAAAABAAAAbAYAAAAAAAAABgAAAAAAAAABAAAALwUAAAAAAAAABQAAAAAAAAABAAAALwQAAAAAAAAABAAAAAAAAAABAAAAOgMAAAAAAAAAAwAAAAAAAAABAAAAcAIAAAAAAAAAAgAAAAAAAAABAAAAdAEAAAAAAAAAAQAAAAAAAAABAAAAdAAAAAAAAAAAAAAAAAAAAAABAAAAaA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "fcc_ml.sublime-project",
+			"settings":
+			{
+				"buffer_size": 284,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "src"
+					},
+					"AwAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAACQAAAAAAAAAJAAAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"paste",
+					null,
+					"AgAAABMAAAAAAAAAFgEAAAAAAAAAAAAAFgEAAAAAAAAWAQAAAAAAABYAAAB7CgkJCSJwYXRoIjogInNyYyIKCQl9",
+					"AQAAAAAAAAABAAAAKQAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAABkBAAAAAAAAGgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQEAAAAAAAAZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"left_delete",
+					null,
+					"AQAAABkBAAAAAAAAGQEAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAGgEAAAAAAAAaAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Conda/Conda.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Conda/Conda.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"notebook",
+				"Open IPython Notebook"
+			],
+			[
+				"note",
+				"Save IPython Notebook"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"py",
+				"PyYapf: Format Document"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"newfi",
+				"ANF: New File"
+			],
+			[
+				"conda",
+				"Conda: Activate Environment"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git commi",
+				"Git: Commit history"
+			],
+			[
+				"git comm",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"linter",
+				"SublimeLinter: Goto Error"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"mode",
+				"Set Syntax: Modern-Fortran"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"gra",
+				"Sourcegraph: Open"
+			],
+			[
+				"sour",
+				"Sourcegraph: Open"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"graph",
+				"Sourcegraph: Open"
+			],
+			[
+				"git graph",
+				"Set Syntax: Git Graph"
+			],
+			[
+				"tview",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: is",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: i",
+				"Snippet: If Condition"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"x+y",
+			"y = 2",
+			"x = 1",
+			"pwd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/javi/Desktop/Programar/freecodecamp/freecodecamp_ml/src",
+		"/home/javi/Desktop/Programar/freecodecamp/freecodecamp_ml/docs"
+	],
+	"file_history":
+	[
+		"/home/javi/Desktop/Programar/freecodecamp/freecodecamp_ml/fcc_cat_dog/.ipynb_checkpoints/fcc_cat_dog-checkpoint.ipynb",
+		"/home/javi/Desktop/atoms.py",
+		"/home/javi/Desktop/Programming/Tutorial/Docker/getting-started/app/src/static/js/app.js",
+		"/home/javi/Desktop/Programming/Tutorial/Docker/getting-started/app/Dockerfile",
+		"/home/javi/Desktop/ESQC/Lectures/Math/Lecture 2 - space of polynomials.ipynb",
+		"/home/javi/Desktop/Programming/CodeRefineryCourse0322/testing/test",
+		"/home/javi/Desktop/Programming/CodeRefineryCourse0322/testing/.git/MERGE_MSG",
+		"/home/javi/Desktop/Programming/CodeRefineryCourse0322/coderefinery-documentation-example-project/COMMIT_EDITMSG.git-commit-view",
+		"/home/javi/Desktop/Programming/CodeRefineryCourse0322/centralized-workflow-exercise/javierdomcal.txt",
+		"/home/javi/.config/sublime-text/Packages/User/SublimeLinter.sublime-settings",
+		"/home/javi/.config/sublime-text/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/javi/.config/sublime-text/Packages/sourcegraph/README.md",
+		"/home/javi/.config/sublime-text/Packages/sourcegraph/LICENSE",
+		"/home/javi/Desktop/Programming/CodeRefineryCourse0322/Guacamole/instructions.txt",
+		"/home/javi/Desktop/Programming/CodeRefineryCourse0322/Guacamole/README.md",
+		"/home/javi/Desktop/Programming/CodeRefineryCourse0322/Guacamole/ingredients.txt.orig",
+		"/home/javi/Desktop/Programming/CodeRefineryCourse0322/Guacamole/ingredients.txt",
+		"/home/javi/example_git/example.py",
+		"/home/javi/Desktop/Programming/test2.py",
+		"/home/javi/example_git/ftpsync.settings",
+		"/home/javi/.config/sublime-text/Packages/User/AdvancedNewFile.sublime-settings",
+		"/home/javi/example_git/example2.py",
+		"/home/javi/Desktop/Programming/htmlexample.html",
+		"/home/javi/Desktop/Programming/markexample.html",
+		"/home/javi/Desktop/Programming/markexample.md",
+		"/home/javi/example2"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "/home/javi/Desktop/Programar/freecodecamp/freecodecamp_ml/fcc_cat_dog/.ipynb_checkpoints",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "fcc_ml.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 257.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"output.markdown":
+	{
+		"height": 108.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "fcc_ml.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 157.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
