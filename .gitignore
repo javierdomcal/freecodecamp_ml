@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#my files
+fcc_cat_dog/cats_and_dogs.zip
+fcc_cat_dog/cats_and_dogs/

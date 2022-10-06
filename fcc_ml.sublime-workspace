@@ -8,85 +8,326 @@
 	"buffers":
 	[
 		{
-			"contents": "",
+			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					7,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAAMQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					8,
-					51,
-					"left_delete",
-					null,
-					"MQAAADAAAAAAAAAAMAAAAAAAAAABAAAAYi8AAAAAAAAALwAAAAAAAAABAAAAbi4AAAAAAAAALgAAAAAAAAABAAAAeS0AAAAAAAAALQAAAAAAAAABAAAAcCwAAAAAAAAALAAAAAAAAAABAAAAaSsAAAAAAAAAKwAAAAAAAAABAAAALioAAAAAAAAAKgAAAAAAAAABAAAAZykAAAAAAAAAKQAAAAAAAAABAAAAbygAAAAAAAAAKAAAAAAAAAABAAAAZCcAAAAAAAAAJwAAAAAAAAABAAAAXyYAAAAAAAAAJgAAAAAAAAABAAAAdCUAAAAAAAAAJQAAAAAAAAABAAAAYSQAAAAAAAAAJAAAAAAAAAABAAAAYyMAAAAAAAAAIwAAAAAAAAABAAAAXyIAAAAAAAAAIgAAAAAAAAABAAAAYyEAAAAAAAAAIQAAAAAAAAABAAAAYyAAAAAAAAAAIAAAAAAAAAABAAAAZh8AAAAAAAAAHwAAAAAAAAABAAAALx4AAAAAAAAAHgAAAAAAAAABAAAAcx0AAAAAAAAAHQAAAAAAAAABAAAAaxwAAAAAAAAAHAAAAAAAAAABAAAAbxsAAAAAAAAAGwAAAAAAAAABAAAAbxoAAAAAAAAAGgAAAAAAAAABAAAAYhkAAAAAAAAAGQAAAAAAAAABAAAAZRgAAAAAAAAAGAAAAAAAAAABAAAAdBcAAAAAAAAAFwAAAAAAAAABAAAAbxYAAAAAAAAAFgAAAAAAAAABAAAAbhUAAAAAAAAAFQAAAAAAAAABAAAALxQAAAAAAAAAFAAAAAAAAAABAAAAORMAAAAAAAAAEwAAAAAAAAABAAAAOBIAAAAAAAAAEgAAAAAAAAABAAAAOBEAAAAAAAAAEQAAAAAAAAABAAAAOBAAAAAAAAAAEAAAAAAAAAABAAAAOg8AAAAAAAAADwAAAAAAAAABAAAAdA4AAAAAAAAADgAAAAAAAAABAAAAcw0AAAAAAAAADQAAAAAAAAABAAAAbwwAAAAAAAAADAAAAAAAAAABAAAAaAsAAAAAAAAACwAAAAAAAAABAAAAbAoAAAAAAAAACgAAAAAAAAABAAAAYQkAAAAAAAAACQAAAAAAAAABAAAAYwgAAAAAAAAACAAAAAAAAAABAAAAbwcAAAAAAAAABwAAAAAAAAABAAAAbAYAAAAAAAAABgAAAAAAAAABAAAALwUAAAAAAAAABQAAAAAAAAABAAAALwQAAAAAAAAABAAAAAAAAAABAAAAOgMAAAAAAAAAAwAAAAAAAAABAAAAcAIAAAAAAAAAAgAAAAAAAAABAAAAdAEAAAAAAAAAAQAAAAAAAAABAAAAdAAAAAAAAAAAAAAAAAAAAAABAAAAaA",
-					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "fcc_ml.sublime-project",
-			"settings":
-			{
-				"buffer_size": 284,
+				"buffer_size": 1867,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					15,
+					32,
 					1,
 					"insert",
 					{
-						"characters": "src"
+						"characters": "\n"
 					},
-					"AwAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+					"AQAAAAcHAAAAAAAACAcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwcAAAAAAAAHBwAAAAAAAAAAAAAAAAAA"
 				],
 				[
-					23,
+					34,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAgHAAAAAAAACQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAcAAAAAAAAIBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAgHAAAAAAAACQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAcAAAAAAAAIBwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "m"
+					},
+					"AQAAAAkHAAAAAAAACgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQcAAAAAAAAJBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAAoHAAAAAAAACwcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgcAAAAAAAAKBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAsHAAAAAAAADAcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwcAAAAAAAALBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "files"
+					},
+					"BQAAAAwHAAAAAAAADQcAAAAAAAAAAAAADQcAAAAAAAAOBwAAAAAAAAAAAAAOBwAAAAAAAA8HAAAAAAAAAAAAAA8HAAAAAAAAEAcAAAAAAAAAAAAAEAcAAAAAAAARBwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAcAAAAAAAAMBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABEHAAAAAAAAEgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQcAAAAAAAARBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "fcc"
+					},
+					"AwAAABIHAAAAAAAAEwcAAAAAAAAAAAAAEwcAAAAAAAAUBwAAAAAAAAAAAAAUBwAAAAAAABUHAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgcAAAAAAAASBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAABUHAAAAAAAAFgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQcAAAAAAAAVBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
 					1,
 					"left_delete",
 					null,
-					"AQAAACQAAAAAAAAAJAAAAAAAAAABAAAALg",
-					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+					"AQAAABUHAAAAAAAAFQcAAAAAAAABAAAACQ",
+					"AQAAAAAAAAABAAAAFgcAAAAAAAAWBwAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					28,
+					55,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAABUHAAAAAAAAFgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQcAAAAAAAAVBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAABYHAAAAAAAAFwcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgcAAAAAAAAWBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					2,
+					"left_delete",
+					null,
+					"AgAAABYHAAAAAAAAFgcAAAAAAAABAAAACRUHAAAAAAAAFQcAAAAAAAABAAAAXw",
+					"AQAAAAAAAAABAAAAFwcAAAAAAAAXBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "_cat"
+					},
+					"BAAAABUHAAAAAAAAFgcAAAAAAAAAAAAAFgcAAAAAAAAXBwAAAAAAAAAAAAAXBwAAAAAAABgHAAAAAAAAAAAAABgHAAAAAAAAGQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQcAAAAAAAAVBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "_"
+					},
+					"AQAAABkHAAAAAAAAGgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQcAAAAAAAAZBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "dog/"
+					},
+					"BAAAABoHAAAAAAAAGwcAAAAAAAAAAAAAGwcAAAAAAAAcBwAAAAAAAAAAAAAcBwAAAAAAAB0HAAAAAAAAAAAAAB0HAAAAAAAAHgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgcAAAAAAAAaBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "ff"
+					},
+					"AgAAAB4HAAAAAAAAHwcAAAAAAAAAAAAAHwcAAAAAAAAgBwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgcAAAAAAAAeBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					2,
+					"left_delete",
+					null,
+					"AgAAAB8HAAAAAAAAHwcAAAAAAAABAAAAZh4HAAAAAAAAHgcAAAAAAAABAAAAZg",
+					"AQAAAAAAAAABAAAAIAcAAAAAAAAgBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAAB4HAAAAAAAAHwcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgcAAAAAAAAeBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"left_delete",
+					null,
+					"AQAAAB4HAAAAAAAAHgcAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAHwcAAAAAAAAfBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "cats_and_d"
+					},
+					"CgAAAB4HAAAAAAAAHwcAAAAAAAAAAAAAHwcAAAAAAAAgBwAAAAAAAAAAAAAgBwAAAAAAACEHAAAAAAAAAAAAACEHAAAAAAAAIgcAAAAAAAAAAAAAIgcAAAAAAAAjBwAAAAAAAAAAAAAjBwAAAAAAACQHAAAAAAAAAAAAACQHAAAAAAAAJQcAAAAAAAAAAAAAJQcAAAAAAAAmBwAAAAAAAAAAAAAmBwAAAAAAACcHAAAAAAAAAAAAACcHAAAAAAAAKAcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgcAAAAAAAAeBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "ogs"
+					},
+					"AwAAACgHAAAAAAAAKQcAAAAAAAAAAAAAKQcAAAAAAAAqBwAAAAAAAAAAAAAqBwAAAAAAACsHAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAcAAAAAAAAoBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAACsHAAAAAAAALAcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKwcAAAAAAAArBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert",
+					{
+						"characters": "z"
+					},
+					"AQAAACwHAAAAAAAALQcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALAcAAAAAAAAsBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "i"
+					},
+					"AQAAAC0HAAAAAAAALgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALQcAAAAAAAAtBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAAC4HAAAAAAAALwcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgcAAAAAAAAuBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
 					1,
 					"paste",
 					null,
-					"AgAAABMAAAAAAAAAFgEAAAAAAAAAAAAAFgEAAAAAAAAWAQAAAAAAABYAAAB7CgkJCSJwYXRoIjogInNyYyIKCQl9",
-					"AQAAAAAAAAABAAAAKQAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+					"AQAAADAHAAAAAAAATgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAcAAAAAAAAwBwAAAAAAAAAAAAAAAPC/"
 				],
 				[
-					36,
+					117,
+					4,
+					"left_delete",
+					null,
+					"BAAAAEwHAAAAAAAATAcAAAAAAAABAAAAcEsHAAAAAAAASwcAAAAAAAABAAAAaUoHAAAAAAAASgcAAAAAAAABAAAAekkHAAAAAAAASQcAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAATQcAAAAAAABNBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
 					1,
 					"insert",
 					{
-						"characters": ","
+						"characters": "/"
 					},
-					"AQAAABkBAAAAAAAAGgEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAGQEAAAAAAAAZAQAAAAAAAAAAAAAAAPC/"
-				],
+					"AQAAAEkHAAAAAAAASgcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQcAAAAAAABJBwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nSublimeLinter\n-------------\n\n                ^ ^\n  SublimeLinter 4.20.0\n\n\n  Holy, finally, I mean: f i n a l l y, we have annotation and inline phantoms[*].\n\n  -- By default, nothing changes, you have to opt-in.\n\n  Here's how it goes as it is a bit tricky and also sophisticated:\n\n  ++ Everything is configured within the `styles` section in the global\n     SublimeLinter settings. For that to work, the style definitions accept two\n     new keys, namely `annotation` and `phantom`.\n\n     These are template strings, therefore e.g. \"{code}\", \"{msg}\", \"{linter}\"\n     are typical values used here.\n     Use \"\" (the default) to turn this feature off.\n\n\n  Because this is implemented as \"style\" of an error, you can adjust and\n  fine-tune the feature for each linter separately. (°°)\n\n  This is extremely important to reduce clutter and noise where possible.\n  Because, believe me, this can lead to clutter and noise.\n\n  For example, while writing, you often produce intermittent syntax errors.\n  But that is natural for writing and shouldn't produce too much visual\n  distraction. You can for example define\n\n      \"mypy\": {\n          \"styles\": [\n              {\n                  \"codes\": [\"syntax\"],  # mypy's rule/code for syntax errors\n                  \"icon\": \"cog\",\n                  \"phantom\": \"\",        # no inline phantoms\n                  \"annotation\": \"💣\",   # an icon on the right side\n              },\n              {\n                  \"phantom\": \"{msg}\",   # for all other reported problems\n              }\n          ],\n      },\n\n  to mitigate this effect.\n\n  E.g. for \"annotations\", everything is already pretty much in the code. You\n  could try:\n\n      \"annotations\": {\n          \"styles\": [\n              {\n                  \"types\": [\"error\"],\n                  \"scope\": \"region.redish\",\n                  \"annotation\": \"!\"\n              },\n              {\n                  \"annotation\": \"\",\n                  \"phantom\": \"\"\n              },\n          ]\n      },\n\n\n  Especially phantoms are both annoying and the best thing since sliced bread.\n  So we only show them for \"errors\" (not for \"warnings\" etc) as long as there\n  are any errors and only then also for warnings and other types.  Yeah, that\n  should probably be pluggable but then I would never release anything.\n\n  To quickly toggle the phantoms you can use our `sublime_linter_toggle_highlights`\n  command.  By default it toggles both the squiggles and the inline phantoms but: --\n\n      { \"keys\": [\"ctrl+k\", \"ctrl+k\"],\n        \"command\": \"sublime_linter_toggle_highlights\",\n        \"args\": {\"what\": [\"phantoms\"]}  // or \"squiggles\"\n      },\n\n  -- this is already pluggable.\n\n\n  Sincerely,\n  ❤️\n\n\n  And yes, I do drink coffee:  https://paypal.me/herrkaste\n\n  [*] Annotations are small text fields on the right hand side of the view at\n      the same line of an error.  Because of that they usually have not much\n      space to show anything.\n      Phantoms appear right below the error and use the full width of the view.\n      They make clear what an error is about, have lots of space but - if you\n      have lots of them in a small section - the actual code might get too\n      interspersed.",
+			"settings":
+			{
+				"buffer_size": 3225,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			},
+			"undo_stack":
+			[
 				[
-					38,
 					1,
-					"left_delete",
-					null,
-					"AQAAABkBAAAAAAAAGQEAAAAAAAABAAAALA",
-					"AQAAAAAAAAABAAAAGgEAAAAAAAAaAQAAAAAAAAAAAAAAAPC/"
+					1,
+					"insert",
+					{
+						"characters": "Package Control Messages\n========================\n\nSublimeLinter\n-------------\n\n                ^ ^\n  SublimeLinter 4.20.0\n\n\n  Holy, finally, I mean: f i n a l l y, we have annotation and inline phantoms[*].\n\n  -- By default, nothing changes, you have to opt-in.\n\n  Here's how it goes as it is a bit tricky and also sophisticated:\n\n  ++ Everything is configured within the `styles` section in the global\n     SublimeLinter settings. For that to work, the style definitions accept two\n     new keys, namely `annotation` and `phantom`.\n\n     These are template strings, therefore e.g. \"{code}\", \"{msg}\", \"{linter}\"\n     are typical values used here.\n     Use \"\" (the default) to turn this feature off.\n\n\n  Because this is implemented as \"style\" of an error, you can adjust and\n  fine-tune the feature for each linter separately. (°°)\n\n  This is extremely important to reduce clutter and noise where possible.\n  Because, believe me, this can lead to clutter and noise.\n\n  For example, while writing, you often produce intermittent syntax errors.\n  But that is natural for writing and shouldn't produce too much visual\n  distraction. You can for example define\n\n      \"mypy\": {\n          \"styles\": [\n              {\n                  \"codes\": [\"syntax\"],  # mypy's rule/code for syntax errors\n                  \"icon\": \"cog\",\n                  \"phantom\": \"\",        # no inline phantoms\n                  \"annotation\": \"💣\",   # an icon on the right side\n              },\n              {\n                  \"phantom\": \"{msg}\",   # for all other reported problems\n              }\n          ],\n      },\n\n  to mitigate this effect.\n\n  E.g. for \"annotations\", everything is already pretty much in the code. You\n  could try:\n\n      \"annotations\": {\n          \"styles\": [\n              {\n                  \"types\": [\"error\"],\n                  \"scope\": \"region.redish\",\n                  \"annotation\": \"!\"\n              },\n              {\n                  \"annotation\": \"\",\n                  \"phantom\": \"\"\n              },\n          ]\n      },\n\n\n  Especially phantoms are both annoying and the best thing since sliced bread.\n  So we only show them for \"errors\" (not for \"warnings\" etc) as long as there\n  are any errors and only then also for warnings and other types.  Yeah, that\n  should probably be pluggable but then I would never release anything.\n\n  To quickly toggle the phantoms you can use our `sublime_linter_toggle_highlights`\n  command.  By default it toggles both the squiggles and the inline phantoms but: --\n\n      { \"keys\": [\"ctrl+k\", \"ctrl+k\"],\n        \"command\": \"sublime_linter_toggle_highlights\",\n        \"args\": {\"what\": [\"phantoms\"]}  // or \"squiggles\"\n      },\n\n  -- this is already pluggable.\n\n\n  Sincerely,\n  ❤️\n\n\n  And yes, I do drink coffee:  https://paypal.me/herrkaste\n\n  [*] Annotations are small text fields on the right hand side of the view at\n      the same line of an error.  Because of that they usually have not much\n      space to show anything.\n      Phantoms appear right below the error and use the full width of the view.\n      They make clear what an error is about, have lots of space but - if you\n      have lots of them in a small section - the actual code might get too\n      interspersed."
+					},
+					"qQAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAADEAAAAAAAAAAAAAADEAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB7AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAfQAAAAAAAADPAAAAAAAAAAAAAADPAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA0QAAAAAAAAAAAAAA0QAAAAAAAAAGAQAAAAAAAAAAAAAGAQAAAAAAAAcBAAAAAAAAAAAAAAcBAAAAAAAACAEAAAAAAAAAAAAACAEAAAAAAABKAQAAAAAAAAAAAABKAQAAAAAAAEsBAAAAAAAAAAAAAEsBAAAAAAAATAEAAAAAAAAAAAAATAEAAAAAAACTAQAAAAAAAAAAAACTAQAAAAAAAJQBAAAAAAAAAAAAAJQBAAAAAAAA4wEAAAAAAAAAAAAA4wEAAAAAAADkAQAAAAAAAAAAAADkAQAAAAAAABUCAAAAAAAAAAAAABUCAAAAAAAAFgIAAAAAAAAAAAAAFgIAAAAAAAAXAgAAAAAAAAAAAAAXAgAAAAAAAGQCAAAAAAAAAAAAAGQCAAAAAAAAZQIAAAAAAAAAAAAAZQIAAAAAAACHAgAAAAAAAAAAAACHAgAAAAAAAIgCAAAAAAAAAAAAAIgCAAAAAAAAuwIAAAAAAAAAAAAAuwIAAAAAAAC8AgAAAAAAAAAAAAC8AgAAAAAAAL0CAAAAAAAAAAAAAL0CAAAAAAAAvgIAAAAAAAAAAAAAvgIAAAAAAAAGAwAAAAAAAAAAAAAGAwAAAAAAAAcDAAAAAAAAAAAAAAcDAAAAAAAAPwMAAAAAAAAAAAAAPwMAAAAAAABAAwAAAAAAAAAAAABAAwAAAAAAAEEDAAAAAAAAAAAAAEEDAAAAAAAAigMAAAAAAAAAAAAAigMAAAAAAACLAwAAAAAAAAAAAACLAwAAAAAAAMUDAAAAAAAAAAAAAMUDAAAAAAAAxgMAAAAAAAAAAAAAxgMAAAAAAADHAwAAAAAAAAAAAADHAwAAAAAAABIEAAAAAAAAAAAAABIEAAAAAAAAEwQAAAAAAAAAAAAAEwQAAAAAAABaBAAAAAAAAAAAAABaBAAAAAAAAFsEAAAAAAAAAAAAAFsEAAAAAAAAhAQAAAAAAAAAAAAAhAQAAAAAAACFBAAAAAAAAAAAAACFBAAAAAAAAIYEAAAAAAAAAAAAAIYEAAAAAAAAlQQAAAAAAAAAAAAAlQQAAAAAAACWBAAAAAAAAAAAAACWBAAAAAAAAKsEAAAAAAAAAAAAAKsEAAAAAAAArAQAAAAAAAAAAAAArAQAAAAAAAC7BAAAAAAAAAAAAAC7BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAAACAUAAAAAAAAAAAAACAUAAAAAAAAJBQAAAAAAAAAAAAAJBQAAAAAAACkFAAAAAAAAAAAAACkFAAAAAAAAKgUAAAAAAAAAAAAAKgUAAAAAAABmBQAAAAAAAAAAAABmBQAAAAAAAGcFAAAAAAAAAAAAAGcFAAAAAAAAqQUAAAAAAAAAAAAAqQUAAAAAAACqBQAAAAAAAAAAAACqBQAAAAAAALoFAAAAAAAAAAAAALoFAAAAAAAAuwUAAAAAAAAAAAAAuwUAAAAAAADKBQAAAAAAAAAAAADKBQAAAAAAAMsFAAAAAAAAAAAAAMsFAAAAAAAAFAYAAAAAAAAAAAAAFAYAAAAAAAAVBgAAAAAAAAAAAAAVBgAAAAAAACQGAAAAAAAAAAAAACQGAAAAAAAAJQYAAAAAAAAAAAAAJQYAAAAAAAAxBgAAAAAAAAAAAAAxBgAAAAAAADIGAAAAAAAAAAAAADIGAAAAAAAAOgYAAAAAAAAAAAAAOgYAAAAAAAA7BgAAAAAAAAAAAAA7BgAAAAAAADwGAAAAAAAAAAAAADwGAAAAAAAAVgYAAAAAAAAAAAAAVgYAAAAAAABXBgAAAAAAAAAAAABXBgAAAAAAAFgGAAAAAAAAAAAAAFgGAAAAAAAApAYAAAAAAAAAAAAApAYAAAAAAAClBgAAAAAAAAAAAAClBgAAAAAAALEGAAAAAAAAAAAAALEGAAAAAAAAsgYAAAAAAAAAAAAAsgYAAAAAAACzBgAAAAAAAAAAAACzBgAAAAAAAMkGAAAAAAAAAAAAAMkGAAAAAAAAygYAAAAAAAAAAAAAygYAAAAAAADfBgAAAAAAAAAAAADfBgAAAAAAAOAGAAAAAAAAAAAAAOAGAAAAAAAA7wYAAAAAAAAAAAAA7wYAAAAAAADwBgAAAAAAAAAAAADwBgAAAAAAABUHAAAAAAAAAAAAABUHAAAAAAAAFgcAAAAAAAAAAAAAFgcAAAAAAABBBwAAAAAAAAAAAABBBwAAAAAAAEIHAAAAAAAAAAAAAEIHAAAAAAAAZQcAAAAAAAAAAAAAZQcAAAAAAABmBwAAAAAAAAAAAABmBwAAAAAAAHYHAAAAAAAAAAAAAHYHAAAAAAAAdwcAAAAAAAAAAAAAdwcAAAAAAACGBwAAAAAAAAAAAACGBwAAAAAAAIcHAAAAAAAAAAAAAIcHAAAAAAAAqgcAAAAAAAAAAAAAqgcAAAAAAACrBwAAAAAAAAAAAACrBwAAAAAAAMoHAAAAAAAAAAAAAMoHAAAAAAAAywcAAAAAAAAAAAAAywcAAAAAAADbBwAAAAAAAAAAAADbBwAAAAAAANwHAAAAAAAAAAAAANwHAAAAAAAA5wcAAAAAAAAAAAAA5wcAAAAAAADoBwAAAAAAAAAAAADoBwAAAAAAAPAHAAAAAAAAAAAAAPAHAAAAAAAA8QcAAAAAAAAAAAAA8QcAAAAAAADyBwAAAAAAAAAAAADyBwAAAAAAAPMHAAAAAAAAAAAAAPMHAAAAAAAAQQgAAAAAAAAAAAAAQQgAAAAAAABCCAAAAAAAAAAAAABCCAAAAAAAAI8IAAAAAAAAAAAAAI8IAAAAAAAAkAgAAAAAAAAAAAAAkAgAAAAAAADdCAAAAAAAAAAAAADdCAAAAAAAAN4IAAAAAAAAAAAAAN4IAAAAAAAAJQkAAAAAAAAAAAAAJQkAAAAAAAAmCQAAAAAAAAAAAAAmCQAAAAAAACcJAAAAAAAAAAAAACcJAAAAAAAAegkAAAAAAAAAAAAAegkAAAAAAAB7CQAAAAAAAAAAAAB7CQAAAAAAAM8JAAAAAAAAAAAAAM8JAAAAAAAA0AkAAAAAAAAAAAAA0AkAAAAAAADRCQAAAAAAAAAAAADRCQAAAAAAAPYJAAAAAAAAAAAAAPYJAAAAAAAA9wkAAAAAAAAAAAAA9wkAAAAAAAAtCgAAAAAAAAAAAAAtCgAAAAAAAC4KAAAAAAAAAAAAAC4KAAAAAAAAZwoAAAAAAAAAAAAAZwoAAAAAAABoCgAAAAAAAAAAAABoCgAAAAAAAHAKAAAAAAAAAAAAAHAKAAAAAAAAcQoAAAAAAAAAAAAAcQoAAAAAAAByCgAAAAAAAAAAAAByCgAAAAAAAJEKAAAAAAAAAAAAAJEKAAAAAAAAkgoAAAAAAAAAAAAAkgoAAAAAAACTCgAAAAAAAAAAAACTCgAAAAAAAJQKAAAAAAAAAAAAAJQKAAAAAAAAoAoAAAAAAAAAAAAAoAoAAAAAAAChCgAAAAAAAAAAAAChCgAAAAAAAKUKAAAAAAAAAAAAAKUKAAAAAAAApgoAAAAAAAAAAAAApgoAAAAAAACnCgAAAAAAAAAAAACnCgAAAAAAAKgKAAAAAAAAAAAAAKgKAAAAAAAA4goAAAAAAAAAAAAA4goAAAAAAADjCgAAAAAAAAAAAADjCgAAAAAAAOQKAAAAAAAAAAAAAOQKAAAAAAAAMQsAAAAAAAAAAAAAMQsAAAAAAAAyCwAAAAAAAAAAAAAyCwAAAAAAAH4LAAAAAAAAAAAAAH4LAAAAAAAAfwsAAAAAAAAAAAAAfwsAAAAAAACcCwAAAAAAAAAAAACcCwAAAAAAAJ0LAAAAAAAAAAAAAJ0LAAAAAAAA7AsAAAAAAAAAAAAA7AsAAAAAAADtCwAAAAAAAAAAAADtCwAAAAAAADoMAAAAAAAAAAAAADoMAAAAAAAAOwwAAAAAAAAAAAAAOwwAAAAAAACFDAAAAAAAAAAAAACFDAAAAAAAAIYMAAAAAAAAAAAAAIYMAAAAAAAAmQwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -317,6 +558,7 @@
 	],
 	"file_history":
 	[
+		"/home/javi/Desktop/Programar/freecodecamp/freecodecamp_ml/fcc_ml.sublime-project",
 		"/home/javi/Desktop/Programar/freecodecamp/freecodecamp_ml/fcc_cat_dog/.ipynb_checkpoints/fcc_cat_dog-checkpoint.ipynb",
 		"/home/javi/Desktop/atoms.py",
 		"/home/javi/Desktop/Programming/Tutorial/Docker/getting-started/app/src/static/js/app.js",
@@ -383,65 +625,65 @@
 			[
 				{
 					"buffer": 0,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"default_dir": "/home/javi/Desktop/Programar/freecodecamp/freecodecamp_ml/fcc_cat_dog/.ipynb_checkpoints",
-							"git_gutter_is_enabled": false,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "fcc_ml.sublime-project",
+					"file": ".gitignore",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 284,
+						"buffer_size": 1867,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								283,
-								283
+								1866,
+								1866
 							]
 						],
 						"settings":
 						{
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1173.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3224,
+								3224
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"default_dir": "/home/javi/Desktop/Programar/freecodecamp/freecodecamp_ml",
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 633.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				}
